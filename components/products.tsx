@@ -178,8 +178,8 @@ export function Products() {
             className="hover:border-orange-500 hover:text-orange-500 transition-all duration-300 bg-transparent"
             asChild
           >
-            <Link href="/vulcanizing-products">
-              View All Products <ArrowRight className="ml-2 w-5 h-5" />
+            <Link href="/contact">
+              Contact Us for More Products <ArrowRight className="ml-2 w-5 h-5" />
             </Link>
           </Button>
         </div>

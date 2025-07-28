@@ -22,7 +22,6 @@ export function Navbar() {
     { href: "/", label: "Home" },
     { href: "/about", label: "About Us" },
     { href: "/vultec", label: "VULTEC(tyre repair)" },
-    { href: "/brochure", label: "BROCHURE" },
     { href: "/contact", label: "CONTACT" },
   ]
 
