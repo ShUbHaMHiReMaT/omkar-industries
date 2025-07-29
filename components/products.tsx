@@ -10,10 +10,10 @@ import Link from "next/link"
 const products = [
   {
     id: 1,
-    name: "VULTEC Technology",
+    name: "Neu-Tech Technology",
     category: "Technology",
     image: "/placeholder.svg?height=300&width=400",
-    description: "Advanced vulcanizing technology for superior tyre repair solutions",
+    description: "Advanced Neu-Tech technology for superior tyre repair solutions",
     features: ["Premium Quality", "Proven Technology", "Industry Standard"],
     popular: true,
   },
