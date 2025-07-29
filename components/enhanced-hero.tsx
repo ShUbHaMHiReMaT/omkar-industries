@@ -76,8 +76,8 @@ export function EnhancedHero() {
                 className="orange-gradient hover:scale-105 transition-transform duration-300 text-white font-semibold"
                 asChild
               >
-                <Link href="/vultec">
-                  Explore VULTEC <ArrowRight className="ml-2 w-5 h-5" />
+                <Link href="/Neu-Tech">
+                  Explore Neu-Tech <ArrowRight className="ml-2 w-5 h-5" />
                 </Link>
               </Button>
               <Button
