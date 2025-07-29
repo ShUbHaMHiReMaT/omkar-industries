@@ -21,7 +21,7 @@ export function Navbar() {
   const navItems = [
     { href: "/", label: "Home" },
     { href: "/about", label: "About Us" },
-    { href: "/vultec", label: "Neu-Tech(tyre repair)" },
+    { href: "/Neu-Tech", label: "Neu-Tech(tyre repair)" },
     { href: "/contact", label: "CONTACT" },
   ]
 
